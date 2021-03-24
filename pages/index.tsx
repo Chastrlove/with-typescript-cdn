@@ -1,5 +1,5 @@
 const Test3 = () => {
-    return <h1>Client Test 3</h1>
+    return <h1>Client Test</h1>
 }
 
 export async function getStaticProps() {
